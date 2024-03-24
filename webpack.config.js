@@ -30,7 +30,7 @@ module.exports = {
   })],
   devtool: "source-map",
   devServer: {
-    static: 'dist',
+    static: 'public',
     hot: true,
   }
 }
